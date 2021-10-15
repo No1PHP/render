@@ -6,6 +6,7 @@ There three ways of presenting it
 ## 1. Directly access our website
 We have already deployed this application on an AliCloud Server. 
 type http://47.93.184.215 to see. 
+(ps: The beckend server is not running, so you can only see the interface and are unable to use the 3d facial rendering function at this time)
 
 ## 2. Run the code on local machine: 
 
