@@ -2,7 +2,7 @@
 
 This is the facial 3D rendering mobile front end part code. 
 
-There are three ways of presenting it
+There are three ways to present it
 ## 1. Directly access our website
 We have already deployed this application on an AliCloud Server. 
 type http://47.93.184.215 to see. 
